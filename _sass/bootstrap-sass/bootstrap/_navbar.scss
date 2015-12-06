@@ -440,14 +440,13 @@
   }
 
   .navbar-toggle {
-    border-color: $navbar-default-toggle-border-color;
-    &:hover,
-    &:focus {
-      background-color: $navbar-default-toggle-hover-bg;
-    }
+    border: none;
+    background-color: $navbar-default-toggle-bg;
+    
     .icon-bar {
       background-color: $navbar-default-toggle-icon-bar-bg;
     }
+
   }
 
   .navbar-collapse,
