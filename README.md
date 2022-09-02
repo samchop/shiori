@@ -1,6 +1,6 @@
 # Sat Nam
 
-A Jekyll-powered Kundalini blog adapted from the [Shiori theme](https://github.com/ellekasai/shiori). 
+A Jekyll-powered blog adapted from the [Shiori theme](https://github.com/ellekasai/shiori). 
 
 ### Special Thanks
 
